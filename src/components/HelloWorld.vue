@@ -64,17 +64,4 @@ ul {
   list-style-type: none;
   padding: 0;
 }
-li {
-  display: block;
-  margin: 3px 10px;
-  border: 1px solid #eee;
-  padding: 0px 10px;
-}
-a {
-  color: #42b983;
-}
-i {
-  float: right;
-  cursor: pointer;
-}
 </style>
